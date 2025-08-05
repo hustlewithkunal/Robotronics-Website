@@ -1,6 +1,8 @@
 # The Robotronics Club - IIT Mandi
 ### Official Website
 
+**👨‍💻 Developed by: [Vansh Pandey](https://github.com/vansh-pandey) & [Kunal Mittal](https://github.com/kunal-mittal)**
+
 ## About The Club
 
 **The Robotronics Club** is the premier robotics organization at the Indian Institute of Technology Mandi, dedicated to fostering innovation, technical excellence, and hands-on learning in the field of robotics and automation.
@@ -199,13 +201,32 @@ Interested in robotics? Want to be part of cutting-edge innovation?
 
 Whether you're a beginner or an experienced engineer, we have opportunities for everyone to learn, grow, and contribute to the future of robotics.
 
+## 👨‍💻 **Development Team**
+
+This website was designed and developed by:
+
+### **🌟 Lead Developers**
+- **[Vansh Pandey](https://github.com/vansh-pandey)** - Full Stack Developer
+- **[Kunal Mittal](https://github.com/kunal-mittal)** - Frontend Developer & UI/UX Designer
+
+*Special thanks to our talented development team for creating this modern, responsive, and feature-rich website for The Robotronics Club.*
+
 ---
 
 ## Contributing
 We welcome contributions to improve our website and documentation. Please feel free to submit issues or pull requests.
 
+### **Want to Contribute?**
+Contact our development team:
+- **Vansh Pandey** - Lead Developer
+- **Kunal Mittal** - Frontend Developer
+
+## License
+This project is licensed under the terms specified in the LICENSE file.
+
 ---
 
 *Building the future, one robot at a time.* 🤖✨
 
+**Website Development**: Vansh Pandey & Kunal Mittal  
 **The Robotronics Club - IIT Mandi** 
