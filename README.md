@@ -1,125 +1,214 @@
-# The Robotronics Club - IIT Mandi Website
+# The Robotronics Club - IIT Mandi
+### Official Website
 
-## Overview
-This website has been customized for The Robotronics Club at IIT Mandi, transforming a stunning AI/blockchain template into a comprehensive robotics club website while preserving the beautiful UI and animations.
+## About The Club
 
-## Major Changes Made
+**The Robotronics Club** is the premier robotics organization at the Indian Institute of Technology Mandi, dedicated to fostering innovation, technical excellence, and hands-on learning in the field of robotics and automation.
 
-### 🎯 **Branding & Identity**
-- **Site Title**: Changed from "RobotAI" to "The Robotronics Club - IIT Mandi"
-- **Header Brand**: Updated to "THE ROBOTRONICS CLUB"
-- **Main Hero**: "The Robot AI" → "The Robotronics Club"
-- **Call-to-Action**: "Switch RobotAI" → "Join Our Club"
+### 🎯 **Our Mission**
+To create a vibrant community of robotics enthusiasts, providing students with the knowledge, skills, and resources needed to excel in robotics competitions, research, and industry applications.
 
-### 🏠 **Hero Section**
-- **Tagline**: "Your gateway to innovation & robotics excellence at IIT Mandi"
-- **Project Examples**: Replaced AI/blockchain examples with robotics projects:
-  - Build autonomous line-following robots
-  - Design robotic arms for pick-and-place tasks
-  - Program Arduino for sensor integration
-  - Create drones for aerial photography
-  - Develop humanoid robots for campus assistance
-  - Build autonomous vehicles for IGVC competition
+### 🚀 **What We Do**
+- **Autonomous Robotics**: Design and build intelligent robots for navigation and decision-making
+- **Drone Technology**: Develop UAVs for various applications including aerial photography and racing
+- **Competition Teams**: Participate in national and international robotics competitions
+- **Workshops & Training**: Regular sessions on electronics, programming, and robot design
+- **Research Projects**: Collaborate with faculty on cutting-edge robotics research
 
-### 📊 **Statistics**
-- **Projects**: 25+ active projects
-- **Members**: 150+ club members
-- **Awards**: 12+ competition awards
-- **Activities**: Robot Building, Competitions, Workshops
+## Website Features
 
-### 🛠 **Club Activities (Previously "Solutions")**
-1. **Autonomous Robotics** - Navigation, decision-making, competition robots
-2. **Drone Technology** - Flight control, aerial photography, FPV racing
-3. **Workshops & Training** - Electronics, programming, design, fabrication
-4. **Competition Teams** - IGVC, RoboCup, drone racing participation
+### 🏆 **Awards & Recognition**
+Our achievements showcase section features a dynamic scrolling display highlighting:
+- Industry partnerships and grants
+- Competition awards and recognitions
+- Academic excellence acknowledgments
+- Innovation and technical achievements
 
-### 🏆 **Achievements & Sponsorships**
-- IIT Mandi Excellence Award (2024 Best Robotics Club)
-- ₹2,50,000 industry partnership grants
-- IGVC participation grants
-- National robotics competition top 10 finalists
-- Innovation of the Year (December 2024)
-- Technical Excellence Award (November 2024)
-- ₹1,00,000 equipment grants from tech sponsors
+### 📊 **Club Statistics**
+- **10+** Robotics tools and platforms
+- **$30M+** Worth of equipment and grants access
+- **550K+** Community reach across platforms
+- **Focus**: Students, engineers, and robotics enthusiasts
 
-### 🏗 **Club Structure (Previously "Ecosystem")**
-1. **Technical Teams** - Specialized teams for autonomous systems, drones, robotic arms
-2. **Workshop Series** - Regular Arduino, Raspberry Pi, 3D printing sessions
-3. **Competitions & Events** - Robocon, IGVC, drone racing participation
-4. **Research & Innovation** - Faculty collaboration, industry partnerships
+### 🛠 **Core Activities**
 
-### 🎯 **Membership Benefits** (Previously "Token Section")
-- Workshop Access
-- Competition Teams
-- Project Collaboration
-- Mentorship Program
-- Industry Connections
-- Technical Resources
+#### **1. Autonomous Robotics**
+Building intelligent systems capable of navigation, decision-making, and autonomous operation for various competitions and real-world applications.
 
-### 🗓 **Club Journey** (Previously "Roadmap")
-- **2025 Semester 1**: Club foundation, basic workshops, first prototypes
-- **2025 Semester 2**: National competitions, industry collaborations
-- **2024-2025 Academic Year**: Dedicated lab establishment, specialized teams
+#### **2. Drone Technology**
+Developing unmanned aerial vehicles for flight control, aerial photography, FPV racing, and specialized missions.
 
-### 📁 **Project Showcase** (Previously "Case Studies")
-- Autonomous Navigation System for IGVC
-- National Drone Championship participation
-- Campus Innovation Fest collaborations
+#### **3. Workshops & Training**
+Regular hands-on sessions covering:
+- Arduino and Raspberry Pi programming
+- Electronics and circuit design
+- 3D printing and fabrication
+- Sensor integration and robotics algorithms
 
-### 📞 **Navigation & Footer**
-- Updated all menu items to reflect robotics activities
-- Competition teams, workshops, innovation lab links
-- Club blog, technical documentation, member dashboard
-- Contact information for The Robotronics Club, IIT Mandi
+#### **4. Competition Teams**
+Active participation in:
+- IGVC (Intelligent Ground Vehicle Competition)
+- RoboCup (International Robot Soccer)
+- National drone racing championships
+- Various inter-college robotics competitions
 
-## Features Preserved
-- ✨ All stunning animations and transitions
-- 🎨 Beautiful gradient designs and visual effects
-- 📱 Responsive design for all devices
-- ⚡ 3D elements and interactive components
-- 🎯 Modern UI/UX patterns
+### 🏗 **Club Structure**
+
+#### **Technical Teams**
+- **Autonomous Systems Team**: Focus on self-navigating robots
+- **Drone Development Team**: UAV design and control systems
+- **Robotic Arms Team**: Manipulation and precision robotics
+- **AI & Machine Learning Team**: Intelligent robotics applications
+
+#### **Activities & Programs**
+- **Weekly Workshops**: Skill-building sessions for all levels
+- **Project Collaborations**: Team-based innovative projects
+- **Mentorship Program**: Senior-junior knowledge transfer
+- **Industry Partnerships**: Real-world project exposure
+
+### 🎯 **Membership Benefits**
+- Access to state-of-the-art robotics lab
+- Participation in national competitions
+- Hands-on project collaboration opportunities
+- Technical mentorship from seniors and faculty
+- Industry connections and internship opportunities
+- Access to specialized tools and resources
+
+### 🗓 **Academic Year Activities**
+- **Semester 1**: Foundation workshops, team formation, basic projects
+- **Semester 2**: Advanced projects, competition preparation, research initiatives
+- **Year-round**: Continuous learning, innovation challenges, industry collaborations
+
+### 📁 **Signature Projects**
+- **Autonomous Navigation System**: IGVC competition robot with advanced sensor fusion
+- **Drone Racing Team**: High-speed FPV racing drones with custom flight controllers
+- **Campus Innovation Projects**: Collaborative robotics solutions for real campus needs
+
+## Technical Implementation
+
+### 🎨 **Website Design**
+Our website features modern, responsive design with:
+- **Stunning animations** and smooth transitions
+- **3D elements** and interactive components
+- **Mobile-first** responsive design
+- **Beautiful gradients** and visual effects
+- **Professional UI/UX** patterns
+
+### 🔄 **Dynamic Content**
+- **Smooth scrolling marquee** showcasing achievements
+- **Interactive project galleries**
+- **Real-time social media integration**
+- **Responsive navigation** and mobile optimization
+
+### ⚡ **Performance & Technology**
+- **Fast loading times** with optimized assets
+- **Cross-browser compatibility**
+- **Modern JavaScript** for enhanced interactivity
+- **CSS animations** for engaging user experience
+- **External CDN integration** for reliability
 
 ## How to Run the Website
 
-### Method 1: Simple Python Server
+### Method 1: Python Server (Recommended)
 ```bash
 # Navigate to the project directory
-cd path/to/robotronics-website
+cd robotronics-website
 
-# Start Python HTTP server
+# Start local server
 python -m http.server 8000
 
-# Open browser and go to:
+# Open browser and visit:
 # http://localhost:8000
 ```
 
-### Method 2: Live Server (VS Code Extension)
+### Method 2: Live Server (VS Code)
 1. Install "Live Server" extension in VS Code
 2. Right-click on `index.html`
 3. Select "Open with Live Server"
 
-### Method 3: Direct File Opening
-Simply double-click `index.html` to open in your default browser.
+### Method 3: Direct Browser Opening
+Double-click `index.html` to open directly in your browser.
 
-## File Structure
+## Project Structure
 ```
 robotronics-website/
 ├── index.html              # Main website file
 ├── assets/
 │   ├── Style/
-│   │   ├── main.css        # Main stylesheet
-│   │   └── Style.css       # Additional styles
-│   ├── imgs/               # Image assets
+│   │   ├── main.css        # Core styles and layouts
+│   │   └── Style.css       # Custom animations and effects
+│   ├── imgs/               # Image assets and media
 │   └── JavaScript/
-│       └── Script.js       # JavaScript functionality
-└── README_ROBOTRONICS.md   # This file
+│       └── Script.js       # Interactive functionality
+├── README.md               # Project documentation
+└── LICENSE                 # License information
 ```
 
-## Contact Information
+## Troubleshooting
+
+### Common Issues
+
+#### **Animations Not Working**
+1. Hard refresh the page (Ctrl+Shift+R)
+2. Check browser console for errors
+3. Ensure JavaScript is enabled
+4. Verify all external resources are loading
+
+#### **Marquee Not Scrolling**
+1. Check internet connection for external scripts
+2. Clear browser cache and reload
+3. Ensure page has fully loaded before expecting animations
+
+#### **Mobile Display Issues**
+1. Test on different devices and browsers
+2. Check viewport settings
+3. Ensure responsive CSS is loading correctly
+
+## Browser Compatibility
+- ✅ **Chrome** (Recommended)
+- ✅ **Firefox**
+- ✅ **Safari**
+- ✅ **Edge**
+- ⚠️ **Internet Explorer** (Limited support)
+
+## Technology Stack
+- **HTML5**: Semantic markup and structure
+- **CSS3**: Advanced styling and animations
+- **JavaScript**: Interactive functionality
+- **GSAP**: High-performance animations
+- **External APIs**: Social media integration
+- **Responsive Design**: Mobile-first approach
+
+## Contact & Social Media
+
+### 📍 **Location**
 **The Robotronics Club**  
 Indian Institute of Technology Mandi  
 Kamand, Mandi, Himachal Pradesh 175075
 
+### 📞 **Get In Touch**
+- **📧 Email**: robotronics@students.iitmandi.ac.in
+- **📱 Instagram**: [@robotronics.iitmandi](https://www.instagram.com/robotronics.iitmandi)
+- **💼 LinkedIn**: [The Robotronics Club IIT Mandi](https://www.linkedin.com/company/the-robotronics-club-iit-mandi/)
+- **💬 WhatsApp**: [Join Our Community](https://chat.whatsapp.com/HfGII9rGVvR0YsKDUc6CM3?mode=ac_t)
+
+### 🤝 **Join Us**
+Interested in robotics? Want to be part of cutting-edge innovation? 
+
+**Join The Robotronics Club today and transform your passion into groundbreaking projects!**
+
+Whether you're a beginner or an experienced engineer, we have opportunities for everyone to learn, grow, and contribute to the future of robotics.
+
 ---
 
-*Transform your passion for robotics into innovation. Join The Robotronics Club today!* 🤖✨ 
+## Contributing
+We welcome contributions to improve our website and documentation. Please feel free to submit issues or pull requests.
+
+## License
+This project is licensed under the terms specified in the LICENSE file.
+
+---
+
+*Building the future, one robot at a time.* 🤖✨
+
+**The Robotronics Club - IIT Mandi** 
