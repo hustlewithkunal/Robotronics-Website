@@ -103,7 +103,7 @@ function selectContract() {
     let toggleContractDropdown = document.querySelector(".js-toggle-contract-dropdown");
     let contractDropdown = document.querySelector(".js-contract-dropdown");
 
-    if (selectBtns && toggleContractDropdown && contractDropdown) {
+    if (selectBtns) {
         toggleContractDropdown.addEventListener("click", function (e) {
             e.preventDefault();
             if (contractDropdown.classList.contains("is-open")) {
@@ -286,5 +286,3 @@ $(document).ready(function () {
         }
     });
 });
-
-

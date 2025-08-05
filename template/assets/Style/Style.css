@@ -2185,9 +2185,6 @@ body:not(.loaded) .page-loader {
     animation: marqueeScroll 30s linear infinite;
 }
 
-.page-ready .token-section .marquee-content {
-    animation: marqueeScroll 40s linear infinite;
-}
 
 
 @media screen and (min-width: 768px) {
