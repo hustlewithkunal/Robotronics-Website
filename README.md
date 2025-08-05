@@ -1,7 +1,7 @@
 # The Robotronics Club - IIT Mandi
 ### Official Website
 
-**👨‍💻 Developed by: [Vansh Pandey](https://github.com/vansh-pandey) & [Kunal Mittal](https://github.com/kunal-mittal)**
+**👨‍💻 Developed by: [Vansh Pandey](https://github.com/Vansh-Pandey) & [Kunal Mittal](https://github.com/hustlewithkunal)**
 
 ## About The Club
 
