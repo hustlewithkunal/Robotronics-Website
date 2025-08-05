@@ -204,9 +204,6 @@ Whether you're a beginner or an experienced engineer, we have opportunities for 
 ## Contributing
 We welcome contributions to improve our website and documentation. Please feel free to submit issues or pull requests.
 
-## License
-This project is licensed under the terms specified in the LICENSE file.
-
 ---
 
 *Building the future, one robot at a time.* 🤖✨
